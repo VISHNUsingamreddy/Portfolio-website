@@ -1,22 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap');
 
 :root {
-  font-family: 'DM Sans', sans-serif;
-  color: #20283a;
-  background: #fff;
+  font-family: 'Manrope', sans-serif;
+  color: #eef0fa;
+  background: #0c1020;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-optical-sizing: auto;
   font-weight: 400;
-  --accent: #4169e1;
-  --accent-dark: #3154c5;
-  --ink: #20283a;
-  --muted: #6d768a;
-  --line: #e8ecf4;
-  --soft: #f7f9ff;
-  --font-display: 'Outfit', sans-serif;
+  --accent: #818cff;
+  --accent-dark: #6c78f1;
+  --ink: #eef0fa;
+  --muted: #a5aec5;
+  --line: #28304f;
+  --soft: #10162c;
+  --font-display: 'Manrope', sans-serif;
 }
 
 * {
@@ -32,13 +32,15 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
+  color: #eef0fa;
+  background: #0c1020;
 }
 
 body,
 button,
 input,
 textarea {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Manrope', sans-serif;
 }
 
 button,

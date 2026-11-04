@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import About from './components/About'
 import Skills from './components/Skills'
 import Projects from './components/Projects'
+import GitHubStats from './components/GitHubStats'
 import Education from './components/Education'
 import Contact from './components/Contact'
 import './App.css'
@@ -42,6 +43,7 @@ function App() {
         <About />
         <Skills />
         <Projects />
+        <GitHubStats />
         <Education />
         <Contact />
       </main>
